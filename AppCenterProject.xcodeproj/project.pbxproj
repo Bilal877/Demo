@@ -80,7 +80,6 @@
 				58BC70B93BBC598DE351F2AB /* Pods-AppCenterProject.debug.xcconfig */,
 				C00EE8931EA47F73EB4F29E0 /* Pods-AppCenterProject.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -344,7 +343,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 3H9V342774;
+				DEVELOPMENT_TEAM = HXR7MY42WB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AppCenterProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -357,7 +356,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.app.test.AppCenterProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.test.AppCenterProject.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -373,7 +372,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 3H9V342774;
+				DEVELOPMENT_TEAM = HXR7MY42WB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AppCenterProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -386,7 +385,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.app.test.AppCenterProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.test.AppCenterProject.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
