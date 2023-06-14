@@ -4,14 +4,14 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AppCenter.xcscheme</key>
+		<key>AppCenterProject.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
-		<key>Pods-AppCenterProject.xcscheme</key>
+		<key>Pods-AppCenterProject.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
